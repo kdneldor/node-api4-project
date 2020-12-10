@@ -2,7 +2,7 @@
 
 In this challenge, you will **deploy** an API of your choosing to `heroku`.
 
-## Instructions
+## INSTRUCTIONS
 
 You are allowed, and **encouraged**, to collaborate with other peers. Please follow the twenty-minute rule, before seeking support from your PM and Instructor.
 
